@@ -1,0 +1,15 @@
+[workspace]
+
+members = [
+    "tcpcli01",
+    "tcpcli04",
+    "tcpcli08",
+    "tcpcli09",
+    "tcpcli11",
+    "tcpserv01",
+    "tcpserv02",
+    "tcpserv03",
+    "tcpserv04",
+    "tcpserv08",
+    "tcpserv09",
+]

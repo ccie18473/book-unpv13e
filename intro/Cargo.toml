@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "byteorder",
+    "daytimetcpcli",
+    "daytimetcpsrv",
+    "daytimetcpsrv1",
+    
+]
