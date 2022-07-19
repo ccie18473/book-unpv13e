@@ -22,7 +22,7 @@ mod prelude {
     pub use std::net::SocketAddr;
     pub use std::time::SystemTime;
     pub use std::{env, process::exit};
-    pub use std::cell::{RefCell, RefMut};
+    pub use std::cell::{RefCell};
     pub use std::rc::Rc;
 }
 
